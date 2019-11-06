@@ -4,7 +4,7 @@
  *
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
-
+import favicon from '../images/mesqr.jpg';
 import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
@@ -68,6 +68,9 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
       ].concat(meta)}
+      link={[
+        { rel: 'shortcut icon', type: 'image/jpg', href: `${favicon}` }
+     ]}
     />
   )
 }
