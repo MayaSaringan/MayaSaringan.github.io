@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.4a1ea860.chunk.css",
-    "main.js": "/build/static/js/main.7e2148ae.chunk.js",
-    "main.js.map": "/build/static/js/main.7e2148ae.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.52eef834.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.52eef834.js.map",
-    "static/css/2.74f94dc0.chunk.css": "/build/static/css/2.74f94dc0.chunk.css",
-    "static/js/2.25db8c45.chunk.js": "/build/static/js/2.25db8c45.chunk.js",
-    "static/js/2.25db8c45.chunk.js.map": "/build/static/js/2.25db8c45.chunk.js.map",
-    "index.html": "/build/index.html",
-    "precache-manifest.5344c2559d8adce71c20b4b793cdce96.js": "/build/precache-manifest.5344c2559d8adce71c20b4b793cdce96.js",
-    "service-worker.js": "/build/service-worker.js",
-    "static/css/2.74f94dc0.chunk.css.map": "/build/static/css/2.74f94dc0.chunk.css.map",
-    "static/css/main.4a1ea860.chunk.css.map": "/build/static/css/main.4a1ea860.chunk.css.map",
-    "static/js/2.25db8c45.chunk.js.LICENSE": "/build/static/js/2.25db8c45.chunk.js.LICENSE",
-    "static/media/logo.svg": "/build/static/media/logo.5d5d9eef.svg",
-    "static/media/index.css": "/build/static/media/poppins-latin-900italic.f3c803b2.woff2"
+    "main.css": "/static/css/main.4a1ea860.chunk.css",
+    "main.js": "/static/js/main.4c4486b4.chunk.js",
+    "main.js.map": "/static/js/main.4c4486b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a43b6eb2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a43b6eb2.js.map",
+    "static/css/2.68b2b6d0.chunk.css": "/static/css/2.68b2b6d0.chunk.css",
+    "static/js/2.25db8c45.chunk.js": "/static/js/2.25db8c45.chunk.js",
+    "static/js/2.25db8c45.chunk.js.map": "/static/js/2.25db8c45.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.819dcaf7fd06898fc7b789806a337bed.js": "/precache-manifest.819dcaf7fd06898fc7b789806a337bed.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.68b2b6d0.chunk.css.map": "/static/css/2.68b2b6d0.chunk.css.map",
+    "static/css/main.4a1ea860.chunk.css.map": "/static/css/main.4a1ea860.chunk.css.map",
+    "static/js/2.25db8c45.chunk.js.LICENSE": "/static/js/2.25db8c45.chunk.js.LICENSE",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/index.css": "/static/media/poppins-latin-900italic.f3c803b2.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.52eef834.js",
-    "static/css/2.74f94dc0.chunk.css",
+    "static/js/runtime-main.a43b6eb2.js",
+    "static/css/2.68b2b6d0.chunk.css",
     "static/js/2.25db8c45.chunk.js",
     "static/css/main.4a1ea860.chunk.css",
-    "static/js/main.7e2148ae.chunk.js"
+    "static/js/main.4c4486b4.chunk.js"
   ]
 }
