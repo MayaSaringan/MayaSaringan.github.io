@@ -3,18 +3,6 @@
   background-color: #080911;
 }
 
-.landing-image {
-  max-width: 40vmin;
-  max-height:40vmin;
-  pointer-events: none;
-}
-
-.landing-image-small{
-  width:20vmin;
-  height:20vmin;
-  max-width:100px;
-  max-height:100px;
-}
 .App-header {
   background-color: transparent;
   min-height: 100vh;
@@ -28,19 +16,7 @@
   position:relative;
   font-family:'Poppins', sans-serif;
 }
-.about-title{
-  align-items:flex-end;
-  display:flex;
-  flex-direction:column;
-}
-.about-description{
-  min-width:400px;
-  padding:20px;
-  display:flex;
-  flex-direction:column;
-  align-items:flex-start;
-  text-align:left;
-}
+
 .section{
   background-color: #080911;
   min-height: 100vh;
@@ -54,50 +30,21 @@
   position:relative;
   font-family:'Poppins', sans-serif;
 }
-.footer{
-  max-height:200px;
-  min-height:150px;
-  display: flex;
-  flex-direction: column;
-  align-items:center;
-  justify-content: center;
 
-}
-.project-tile{
-  width:400px;
-  padding:20px;
-  border-radius: 15%;
-}
+
 .project-col{
   min-width:400;
   margin:5px;
 }
-.projects-container{
-  align-items:center;
-  display:flex;
-  flex-direction: column;
-}
+
 .footer-container{
   display:flex;
   flex-direction:row;
   justify-content:center;
   align-content:center;
 }
-.project-tiles{
-  display:flex;
-  flex-direction:row;
-  justify-content:center;
-  flex-wrap:wrap;
-  align-content:flex-start;
 
-}
-.about{
-  border-top: 1px solid white;
-  background-color: #111214;
-}
-.projects{
-  background-color: #111214;
-}
+
 .App-link {
   color: #61dafb;
 }
@@ -110,26 +57,7 @@
   z-index:2;
   background-color: #080911;
 }
-.landing-description{
- /*background-color: rgb(255, 255, 255, 0.8);*/
-  display:flex;
-  flex-direction:row;
-  justify-content: center;
- 
-}
-.landing-description-text{
-  display:flex;
-  flex-direction:column;
-  justify-content: center;
-  padding-left:25px;
-  padding-right:25px;
-  color:white;
-  width:40vw;
-  min-width:400px;
-}
-.landing-description-text-expansion{
-  width:80vw;
-}
+
 .row-flex{
   display:flex;
   flex-direction: row;
@@ -192,12 +120,4 @@
   align-items:center;
   color:black;
   font-size:24px;
-}
-.Navbar{
-  background-color:transparent;
-  color:white;
-  z-index:2;
-  font-size:20px;
-  color:white;
-
 }

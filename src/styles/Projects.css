@@ -1,0 +1,19 @@
+.project-tiles{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    flex-wrap:wrap;
+    align-content:flex-start;
+  
+  }
+
+  .projects-container{
+    align-items:center;
+    display:flex;
+    flex-direction: column;
+  }
+
+
+.projects{
+    background-color: #111214;
+  }
