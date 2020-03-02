@@ -1,7 +1,8 @@
 
 import React, {Component} from 'react';
 import './styles/Landing.css';
-import './styles/App.css';
+import '../App.css';
+
 import { Link, animateScroll as scroll } from "react-scroll";
 import {faEnvelope} from '@fortawesome/free-solid-svg-icons'
 import {faLinkedinIn, faGithub} from '@fortawesome/free-brands-svg-icons'

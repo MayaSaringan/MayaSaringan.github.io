@@ -1,7 +1,8 @@
 
 import React, {Component} from 'react';
 import './styles/Projects.css';
-import './styles/App.css';
+import '../App.css';
+
 import ProjectTile from './ProjectTile.js'
 export default class Projects extends Component{
 	constructor(props){

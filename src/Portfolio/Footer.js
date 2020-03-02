@@ -1,7 +1,8 @@
 
 import React, {Component} from 'react';
 import './styles/Footer.css';
-import './styles/App.css';
+import '../App.css';
+
 import IconContainer from './IconContainer.js'
 
 import {faEnvelope} from '@fortawesome/free-solid-svg-icons'

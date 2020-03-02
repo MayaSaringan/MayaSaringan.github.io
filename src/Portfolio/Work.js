@@ -1,7 +1,7 @@
 
 import React, {Component} from 'react';
 import './styles/Work.css';
-import './styles/App.css';
+import '../App.css';
 
 export default class Work extends Component{
 	constructor(props){

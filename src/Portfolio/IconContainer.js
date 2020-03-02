@@ -1,6 +1,7 @@
 
 import React, {Component} from 'react';
-import './styles/App.css';
+import '../App.css';
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 export default class IconContainer extends Component{
 	constructor(props){

@@ -1,7 +1,8 @@
 
 import React, {Component} from 'react';
 import './styles/About.css';
-import './styles/App.css';
+import '../App.css';
+
 export default class About extends Component{
 	constructor(props){
 		super(props)

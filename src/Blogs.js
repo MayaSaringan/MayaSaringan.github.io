@@ -10,7 +10,7 @@ import Footer from './Portfolio/Footer.js'
 import Particles from 'react-particles-js';
 import * as particlesConfig from './particlesjs-config.json'
 import "typeface-poppins";
-class Portfolio extends Component{
+export default class Blogs extends Component{
 	constructor(){
 		super()
 		this.state={
@@ -43,18 +43,11 @@ class Portfolio extends Component{
 	render = () =>{	
 		return (
 			<div className="App">
-				<Particles className="particles" height="100vh" width="100%" params={{...particlesConfig.default}} />
-				<MyNavbar/>
-				<div style={{position:'absolute',top:0, width:'100%', zIndex:10}}>
-					<Landing mobile={this.state.mobile}/>
-					<About/>
-					<Projects/>
-					<Footer/>
-				</div>
+				<h2>WIP</h2>
 			</div>
 		  );
 	}
   
 }
 
-export default Portfolio;
+
